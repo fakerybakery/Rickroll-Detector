@@ -1,4 +1,4 @@
-# Rick-Roll-Detector-2.0
+# Rickroll Detector 2.0
 The best PHP rick roll detector! **Works with PHP 5, 7.4, and 8!**
 ## Installation
 Just download `rickrolldetector.php`!
