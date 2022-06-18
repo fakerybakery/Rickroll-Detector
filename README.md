@@ -1,5 +1,5 @@
 # Rickroll Detector 2.0
-The best PHP rick roll detector! **Works with PHP 5, 7.4, and 8!**
+The best PHP rick roll detector! **Works with PHP 5, 7.4, and 8! Test it online at [rickroll.mrfake.name](https://rickroll.mrfake.name/)**
 ## Installation
 Just download `rickrolldetector.php`!
 ## Usage
