@@ -40,4 +40,4 @@ Please give attribution.
 
 If you install this software, you agree to take it down if I request it. If I request a removal of this software, you must remove it within 24 hours.
 
-Copyright &copy; 2022 mrfakename. All rights reserved.
+Copyright &copy; 2023 mrfakename. All rights reserved.
