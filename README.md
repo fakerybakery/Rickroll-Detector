@@ -33,10 +33,4 @@ if ($rickroll) {
 
 ## License
 
-I'm not liable for any damage done by this software, etc...
-
-Please give attribution.
-
-If you install this software, you agree to take it down if I request it. If I request a removal of this software, you must remove it within 24 hours.
-
-Copyright &copy; 2023 mrfakename. All rights reserved.
+AGPL
