@@ -1,6 +1,5 @@
-<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
 # Rickroll Detector 2.0
-The best PHP rick roll detector! **Works with PHP 5, 7.4, and 8! Test it online at [rickroll.mrfake.name](https://rickroll.mrfake.name/)**
+The best PHP rick roll detector! **Works with PHP 5, 7.4, and 8!**
 ## Installation
 Just download `rickrolldetector.php`!
 ## Usage
