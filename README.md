@@ -33,4 +33,6 @@ if ($rickroll) {
 
 ## License
 
-AGPL
+This software is licensed under multiple licenses (similar to dual-licensing but with more than two). You may choose any of these licenses (whichever one you prefer) to use this software under. By submitting contributions, you license your software under *all* of these licenses.
+
+The accepted licenses are: MIT, ISC, Apache 2.0, GPL/LGPL/AGPL (Any Version), UPL, MPL, and BSD-3/2.
